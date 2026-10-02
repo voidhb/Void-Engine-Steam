@@ -1,0 +1,25 @@
+# Void Engine Steam
+
+O **Void Engine Steam** será um executável que, ao ser aberto, iniciará uma tela preta semelhante ao CMD.
+
+Na tela será exibido:
+
+**VOID ENGINE STEAM**
+**VERSÃO BETA**
+
+Logo abaixo, aparecerão duas opções:
+
+**[1] Steam Offline**
+**[2] Steam Online — EM DESENVOLVIMENTO**
+
+A opção **2** ficará visível, porém não poderá ser selecionada, pois ainda está em desenvolvimento.
+
+Ao selecionar a opção **1 — Steam Offline**, o sistema solicitará o **login e a senha de uma conta Steam**.
+
+Após o usuário preencher os dados, o Void Engine Steam verificará se a **Steam está instalada no computador**.
+
+Caso a Steam não esteja instalada, o sistema fará a instalação.
+
+Depois disso, o Void Engine Steam abrirá a **Steam completamente em modo offline**.
+
+A proposta do Void Engine Steam é permitir que o usuário utilize sua biblioteca e loja Steam em modo offline, possibilitando baixar e jogar offline todos os jogos disponíveis na loja e na biblioteca mesmo os pagos.
