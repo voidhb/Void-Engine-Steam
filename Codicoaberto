@@ -1,25 +1,37 @@
 # Void Engine Steam
 
-O **Void Engine Steam** será um executável que, ao ser aberto, iniciará uma tela preta semelhante ao CMD.
+O **Void Engine Steam** será um executável.
 
-Na tela será exibido:
+Ao abrir o executável, será exibida uma tela preta semelhante ao CMD, apresentando:
 
 **VOID ENGINE STEAM**
 **VERSÃO BETA**
 
-Logo abaixo, aparecerão duas opções:
+Depois disso, serão apresentadas duas opções:
 
 **[1] Steam Offline**
 **[2] Steam Online — EM DESENVOLVIMENTO**
 
-A opção **2** ficará visível, porém não poderá ser selecionada, pois ainda está em desenvolvimento.
+A opção **Steam Online** ficará visível, porém não poderá ser selecionada, pois ainda está em desenvolvimento.
 
-Ao selecionar a opção **1 — Steam Offline**, o sistema solicitará o **login e a senha de uma conta Steam**.
+Ao selecionar a opção **1 — Steam Offline**, o sistema solicitará:
 
-Após o usuário preencher os dados, o Void Engine Steam verificará se a **Steam está instalada no computador**.
+* Usuário da conta Steam;
+* Senha da conta Steam.
 
-Caso a Steam não esteja instalada, o sistema fará a instalação.
+Após o preenchimento dos dados, o Void Engine Steam verificará se a **Steam está instalada no computador**.
 
-Depois disso, o Void Engine Steam abrirá a **Steam completamente em modo offline**.
+Caso a Steam não esteja instalada, o sistema deverá instalar a Steam.
 
-A proposta do Void Engine Steam é permitir que o usuário utilize sua biblioteca e loja Steam em modo offline, possibilitando baixar e jogar offline todos os jogos disponíveis na loja e na biblioteca mesmo os pagos.
+Depois disso, a Steam será aberta **totalmente em modo offline**.
+
+A proposta é que, nesse modo, seja possível baixar e jogar offline os jogos da Steam, incluindo jogos pagos.
+
+## Referências
+
+Os seguintes repositórios serão utilizados apenas como referências para o projeto:
+
+* [Luatools Installer — GitHub](https://github.com/ivanpyatin203-dot/luatools-installer?utm_source=chatgpt.com)
+* [Luatools Installer — Shadowclutch](https://github.com/Shadowclutch/luatools-installer?utm_source=chatgpt.com)
+
+**Importante:** as referências acima são apenas os repositórios indicados para consulta no projeto ou as referencias de codico se necesario para criar o nosso projeto, boa parte do codico pode ser reutilizavel. 
